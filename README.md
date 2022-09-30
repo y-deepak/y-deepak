@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y-deepak
-- 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Android development and web development
+- 🌱 Developed and deployed 7 apps on playstore 
 - 💞️ I’m looking to collaborate 
 - 📫 yadavvdeepak18@gmail.com
 
