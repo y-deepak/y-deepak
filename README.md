@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @y-deepak
-- 👀 I’m interested in Android development and web development
-- 🌱 Developed and deployed 7 apps on playstore 
-- 💞️ I’m looking to collaborate 
-- 📫 yadavvdeepak18@gmail.com
+I am an Android developer and have experience in
+ working on many projects as Android developer👨‍💻. I am also an content and course creator
+at Intrannp. Interested in making life easier by creating utility tools. Fascinated about space.
 
-<!---
-y-deepak/y-deepak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working as Android developer Kotlin, Java , Firebase, python, javascript.
+🍔 Founder Intrannp.
+⚡ Currently Working at inmymind🤣🤣🤣.
+💬 Read out my blogs at intrannp
